@@ -19,7 +19,7 @@ I'm passionate 🔥 about building new systems from the ground up, and I'm crazy
 
 My goal is to grow into a **Software Engineer** who delivers systems that don't just work, but genuinely **inspire awe** 🚀.
 
-<div align="center">
+<div align="left">
 
 ![Curiosity](https://img.shields.io/badge/🧠-Curious-FF6B6B?style=for-the-badge&labelColor=2D2D2D)
 ![Collaboration](https://img.shields.io/badge/🤝-Collaborative-4ECDC4?style=for-the-badge&labelColor=2D2D2D)
