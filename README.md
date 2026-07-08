@@ -3,9 +3,35 @@
 
   <h2>Hey, Mohd Mubashir Ahmed (he/him) 👋</h2>
 
-  <h3>Software Engineer 💻 and 🧑‍💻 Community Enthusiast ❤️</h3>
+  <h3>Software Engineer 💻 and Community Enthusiast 🧑‍💻 </h3>
 
-  I'm a computer enthusiast at heart 💻 — genuinely fascinated by how systems come together and work. I love collaborating with new people on projects, whether that means learning from them or teaching what I know; the exchange is where the real growth happens. I'm passionate about building new systems from the ground up, and I'm crazy about data — how it behaves, what it reveals, and how it shapes user experience. My goal is to grow into a Software Engineer who delivers systems that don't just work, but genuinely inspire awe.
+  <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&text=&fontSize=0" width="100%"/>
+
+### 💻 Computer Enthusiast &nbsp;|&nbsp; 🤝 Collaboration Lover &nbsp;|&nbsp; ⚙️ System Builder
+
+</div>
+
+I'm a computer enthusiast at heart 💻 — genuinely fascinated by how systems come together and work.
+
+I thrive on collaborating with new people 🤝 on projects, whether that means learning from them or teaching what I know; the exchange is where the real growth happens 🌱.
+
+I'm passionate 🔥 about building new systems from the ground up, and I'm crazy about data 📊 — how it behaves, what it reveals, and how it shapes user experience ✨.
+
+My goal is to grow into a **Software Engineer** who delivers systems that don't just work, but genuinely **inspire awe** 🚀.
+
+<div align="center">
+
+![Curiosity](https://img.shields.io/badge/🧠-Curious-FF6B6B?style=for-the-badge&labelColor=2D2D2D)
+![Collaboration](https://img.shields.io/badge/🤝-Collaborative-4ECDC4?style=for-the-badge&labelColor=2D2D2D)
+![Systems](https://img.shields.io/badge/⚙️-System%20Builder-FFD93D?style=for-the-badge&labelColor=2D2D2D)
+![Data](https://img.shields.io/badge/📊-Data%20Driven-6C5CE7?style=for-the-badge&labelColor=2D2D2D)
+![UX](https://img.shields.io/badge/✨-UX%20Obsessed-00D2D3?style=for-the-badge&labelColor=2D2D2D)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 </div>
 
 ---
