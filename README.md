@@ -105,7 +105,7 @@ My goal is to grow into a **Software Engineer** who delivers systems that don't 
 
 <h3> Model makes scaling and testing changes simple. </h3>
 
-<img width="1472" height="1328" alt="image" src="https://github.com/user-attachments/assets/6e32af2b-79f8-487f-957b-040b5ea7b5ad" />
+<img width="780" height="1000" alt="image" src="https://github.com/user-attachments/assets/6e32af2b-79f8-487f-957b-040b5ea7b5ad" />
 
 
 ## 🤝 Collaboration & Philosophy
