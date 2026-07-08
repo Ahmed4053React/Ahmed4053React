@@ -122,8 +122,9 @@ My goal is to grow into a **Software Engineer** who delivers systems that don't 
 | 🎨 **Design** | Promotes component-driven architecture and reusable interface design |
 | ⚙️ **Development** | Builds dynamic, stateful user interfaces with efficient rendering |
 | 🚀 **Optimization** | Supports scalable iteration through modular, independently testable components |
----
+
 </details>
+---
 
 # Product Lifecycle Flow
 
