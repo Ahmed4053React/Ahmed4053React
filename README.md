@@ -34,7 +34,7 @@ My goal is to grow into a **Software Engineer** who delivers systems that don't 
 
 ---
 ### Tech Stack 🛠️
-```
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2b2b2b&center=true&vCenter=true&width=600&lines=Architecting+interfaces+that+feel+inevitable;React+%2B+TypeScript+%2B+Tailwind+CSS;Fascinated+by+what+software+makes+possible;Always+learning.+Always+teaching." alt="Typing SVG" />
 
 
@@ -49,7 +49,7 @@ My goal is to grow into a **Software Engineer** who delivers systems that don't 
 
 <div align="left">
 
-## 🧩 Skills & Their Role in Modern Software Development
+### 🧩 Skills & Their Role in Modern Software Development
 
 </div>
 
