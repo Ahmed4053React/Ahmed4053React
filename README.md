@@ -7,8 +7,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&text=&fontSize=0" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Architecting+interfaces+that+feel+inevitable;React+%2B+TypeScript+%2B+Tailwind+CSS;Fascinated+by+what+software+makes+possible;Always+learning.+Always+teaching." alt="Typing SVG" />
-
 💻 Computer Enthusiast &nbsp;|&nbsp; 🤝 Collaboration Lover &nbsp;|&nbsp; ⚙️ System Builder
 
 </div>
