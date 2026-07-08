@@ -104,3 +104,53 @@ My goal is to grow into a **Software Engineer** who delivers systems that don't 
 </div>
 
 <h3> Model makes scaling and testing changes simple. </h3>
+
+### The Loop I Work In
+
+```mermaid
+flowchart LR
+    A[💡 Brainstorm] --> B[🎨 Design System]
+    B --> C[⚙️ Build Components]
+    C --> D[🧪 Test & Review]
+    D --> E[🚀 Ship]
+    E --> F[📈 Measure Impact]
+    F -->|Feedback| A
+
+    style A fill:#1E293B,stroke:#38BDF8,stroke-width:2px,color:#fff
+    style B fill:#1E293B,stroke:#818CF8,stroke-width:2px,color:#fff
+    style C fill:#1E293B,stroke:#34D399,stroke-width:2px,color:#fff
+    style D fill:#1E293B,stroke:#FBBF24,stroke-width:2px,color:#fff
+    style E fill:#1E293B,stroke:#F472B6,stroke-width:2px,color:#fff
+    style F fill:#1E293B,stroke:#38BDF8,stroke-width:2px,color:#fff
+```
+
+## 🤝 Collaboration & Philosophy
+
+```text
+┌──────────────────────────────────────────────────────────┐
+│  "The best interfaces I've built were never solo work."   │
+└──────────────────────────────────────────────────────────┘
+```
+
+- 🧩 **I brainstorm before I build.** A whiteboard argument saves a week of refactoring.
+- 🗣️ **I teach what I learn, and learn from everyone.** Knowledge that stays in one head doesn't scale — neither does software built by one person.
+- 🔍 **I design for change.** Systems, not one-off screens — because requirements always shift.
+- 🔄 **I treat feedback as fuel.** Code review isn't a gate, it's a conversation.
+- 🌍 **I believe in open source** as the purest form of collaborative building.
+
+---
+
+## 📫 Let's Build Something
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-38BDF8?style=for-the-badge&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](#)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=your-username&label=Profile+Views&color=38BDF8&style=flat" alt="Profile Views" />
+
+</div>
