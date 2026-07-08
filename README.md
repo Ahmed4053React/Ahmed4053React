@@ -105,24 +105,8 @@ My goal is to grow into a **Software Engineer** who delivers systems that don't 
 
 <h3> Model makes scaling and testing changes simple. </h3>
 
-### The Loop I Work In
+<img width="1472" height="1328" alt="image" src="https://github.com/user-attachments/assets/6e32af2b-79f8-487f-957b-040b5ea7b5ad" />
 
-```mermaid
-flowchart LR
-    A[💡 Brainstorm] --> B[🎨 Design System]
-    B --> C[⚙️ Build Components]
-    C --> D[🧪 Test & Review]
-    D --> E[🚀 Ship]
-    E --> F[📈 Measure Impact]
-    F -->|Feedback| A
-
-    style A fill:#1E293B,stroke:#38BDF8,stroke-width:2px,color:#fff
-    style B fill:#1E293B,stroke:#818CF8,stroke-width:2px,color:#fff
-    style C fill:#1E293B,stroke:#34D399,stroke-width:2px,color:#fff
-    style D fill:#1E293B,stroke:#FBBF24,stroke-width:2px,color:#fff
-    style E fill:#1E293B,stroke:#F472B6,stroke-width:2px,color:#fff
-    style F fill:#1E293B,stroke:#38BDF8,stroke-width:2px,color:#fff
-```
 
 ## 🤝 Collaboration & Philosophy
 
