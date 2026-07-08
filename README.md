@@ -45,63 +45,157 @@ My goal is to grow into a **Software Engineer** who delivers systems that don't 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
-<div align="left">
+<div align="center">
 
-### Skills & Their Role in Modern Software Development
+## 🧩 Skills & Their Role in Modern Software Development
 
-<table cellpadding="16" cellspacing="0">
-<tr>
-<th align="left">Technology</th>
-<th align="left">Design Phase</th>
-<th align="left">Development Phase</th>
-<th align="left">Optimization Phase</th>
-</tr>
-
-<tr>
-<td><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/></td>
-<td>Defines the semantic document structure and information architecture of an application</td>
-<td>Serves as the foundational markup layer on which all UI components are rendered</td>
-<td>Enhances accessibility compliance and search engine discoverability</td>
-</tr>
-
-<tr>
-<td><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/></td>
-<td>Establishes visual hierarchy, layout systems, and responsive design specifications</td>
-<td>Implements consistent styling and cross-device presentation logic</td>
-<td>Refines interaction design through transitions, theming, and visual polish</td>
-</tr>
-
-<tr>
-<td><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/></td>
-<td>Models dynamic behavior and client-side interaction patterns during architecture planning</td>
-<td>Drives DOM manipulation, event handling, and integration with external APIs</td>
-<td>Enables performance tuning through asynchronous patterns and runtime profiling</td>
-</tr>
-
-<tr>
-<td><img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/></td>
-<td>Standardizes design tokens and utility-first conventions across a design system</td>
-<td>Accelerates UI implementation without context-switching between files</td>
-<td>Simplifies large-scale visual refactors and maintains design consistency</td>
-</tr>
-
-<tr>
-<td><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/></td>
-<td>Establishes clear data contracts and interfaces during system design</td>
-<td>Enforces compile-time type safety, reducing runtime defects during implementation</td>
-<td>Improves long-term maintainability and confidence in large-scale refactoring</td>
-</tr>
-
-<tr>
-<td><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/></td>
-<td>Promotes component-driven architecture and reusable interface design</td>
-<td>Builds dynamic, stateful user interfaces with efficient rendering</td>
-<td>Supports scalable iteration through modular, independently testable components</td>
-</tr>
-
-</table>
+*How each technology shows up across the product lifecycle*
 
 </div>
+
+<br/>
+
+<table width="100%">
+  <thead>
+    <tr>
+      <th align="center" width="14%">Tech</th>
+      <th align="left" width="28.6%">🎨&nbsp; Design</th>
+      <th align="left" width="28.6%">⚙️&nbsp; Development</th>
+      <th align="left" width="28.6%">🚀&nbsp; Optimization</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/></td>
+      <td>Defines the semantic document structure and information architecture of an application</td>
+      <td>Serves as the foundational markup layer on which all UI components are rendered</td>
+      <td>Enhances accessibility compliance and search engine discoverability</td>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/></td>
+      <td>Establishes visual hierarchy, layout systems, and responsive design specifications</td>
+      <td>Implements consistent styling and cross-device presentation logic</td>
+      <td>Refines interaction design through transitions, theming, and visual polish</td>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/></td>
+      <td>Models dynamic behavior and client-side interaction patterns during architecture planning</td>
+      <td>Drives DOM manipulation, event handling, and integration with external APIs</td>
+      <td>Enables performance tuning through asynchronous patterns and runtime profiling</td>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/></td>
+      <td>Standardizes design tokens and utility-first conventions across a design system</td>
+      <td>Accelerates UI implementation without context-switching between files</td>
+      <td>Simplifies large-scale visual refactors and maintains design consistency</td>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/></td>
+      <td>Establishes clear data contracts and interfaces during system design</td>
+      <td>Enforces compile-time type safety, reducing runtime defects during implementation</td>
+      <td>Improves long-term maintainability and confidence in large-scale refactoring</td>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/></td>
+      <td>Promotes component-driven architecture and reusable interface design</td>
+      <td>Builds dynamic, stateful user interfaces with efficient rendering</td>
+      <td>Supports scalable iteration through modular, independently testable components</td>
+    </tr>
+  </tbody>
+</table>
+
+<br/>
+
+<div align="center">
+<sub>🎨 Design → ⚙️ Development → 🚀 Optimization &nbsp;|&nbsp; the same stack, three different lenses</sub>
+</div>
+
+---
+
+<!--
+  ALTERNATE LAYOUT — "card" style
+  GitHub READMEs strip <style> tags, so true CSS effects (shadows, hover, gradients)
+  aren't possible. This collapsible-card version is the closest thing to a "sleek"
+  component-like feel using only badges, emoji, and native <details> accordions.
+-->
+
+<div align="center">
+
+## 🧩 Skills & Their Role in Modern Software Development
+
+</div>
+
+<details open>
+<summary><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/></summary>
+<br/>
+
+| Phase | Role |
+|---|---|
+| 🎨 **Design** | Defines the semantic document structure and information architecture of an application |
+| ⚙️ **Development** | Serves as the foundational markup layer on which all UI components are rendered |
+| 🚀 **Optimization** | Enhances accessibility compliance and search engine discoverability |
+
+</details>
+
+<details>
+<summary><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/></summary>
+<br/>
+
+| Phase | Role |
+|---|---|
+| 🎨 **Design** | Establishes visual hierarchy, layout systems, and responsive design specifications |
+| ⚙️ **Development** | Implements consistent styling and cross-device presentation logic |
+| 🚀 **Optimization** | Refines interaction design through transitions, theming, and visual polish |
+
+</details>
+
+<details>
+<summary><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/></summary>
+<br/>
+
+| Phase | Role |
+|---|---|
+| 🎨 **Design** | Models dynamic behavior and client-side interaction patterns during architecture planning |
+| ⚙️ **Development** | Drives DOM manipulation, event handling, and integration with external APIs |
+| 🚀 **Optimization** | Enables performance tuning through asynchronous patterns and runtime profiling |
+
+</details>
+
+<details>
+<summary><img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/></summary>
+<br/>
+
+| Phase | Role |
+|---|---|
+| 🎨 **Design** | Standardizes design tokens and utility-first conventions across a design system |
+| ⚙️ **Development** | Accelerates UI implementation without context-switching between files |
+| 🚀 **Optimization** | Simplifies large-scale visual refactors and maintains design consistency |
+
+</details>
+
+<details>
+<summary><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/></summary>
+<br/>
+
+| Phase | Role |
+|---|---|
+| 🎨 **Design** | Establishes clear data contracts and interfaces during system design |
+| ⚙️ **Development** | Enforces compile-time type safety, reducing runtime defects during implementation |
+| 🚀 **Optimization** | Improves long-term maintainability and confidence in large-scale refactoring |
+
+</details>
+
+<details>
+<summary><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/></summary>
+<br/>
+
+| Phase | Role |
+|---|---|
+| 🎨 **Design** | Promotes component-driven architecture and reusable interface design |
+| ⚙️ **Development** | Builds dynamic, stateful user interfaces with efficient rendering |
+| 🚀 **Optimization** | Supports scalable iteration through modular, independently testable components |
+
+</details>
 
 # Product Lifecycle Flow
 
