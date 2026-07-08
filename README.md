@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/00000000?v=4" width="150" style="border-radius:50%;" alt="Aditya Oberai"/>
+  <img src="https://avatars.githubusercontent.com/u/00000000?v=4" width="150" style="border-radius:50%;" alt="Mohd Mubashir Ahmed"/>
 
   <h2>Hi, Mohd Mubashir Ahmed (he/him) 👋</h2>
 
