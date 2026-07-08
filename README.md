@@ -100,4 +100,4 @@ My goal is to grow into a **Software Engineer** who delivers systems that don't 
 
 </div>
 
-model makes scaling and testing changes simple.
+<h3> Model makes scaling and testing changes simple. </h3>
