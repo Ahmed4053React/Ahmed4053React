@@ -7,11 +7,3 @@
 </div>
 
 ---
----
-
-### Want To Contact Me? 📲
----
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adityaoberai&show_icons=true&count_private=true&theme=default" alt="Aditya Oberai's GitHub Stats" width="450"/>
-</div>
