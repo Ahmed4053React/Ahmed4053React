@@ -45,6 +45,8 @@ My goal is to grow into a **Software Engineer** who delivers systems that don't 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
+---
+
 <div align="left">
 
 ## 🧩 Skills & Their Role in Modern Software Development
