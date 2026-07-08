@@ -44,6 +44,42 @@ My goal is to grow into a **Software Engineer** who delivers systems that don't 
 
 <div align="center">
 
+  <svg viewBox="0 0 500 420" xmlns="http://www.w3.org/2000/svg" role="img">
+<title>Skillset radar chart</title>
+<desc>Radar chart showing proficiency across HTML 90%, CSS 85%, JavaScript 90%, Tailwind CSS 85%, TypeScript 78%, React 85%</desc>
+<rect width="500" height="420" fill="#ffffff"/>
+<g transform="translate(250,200)">
+<polygon points="0,-150 129.9,-75 129.9,75 0,150 -129.9,75 -129.9,-75" fill="none" stroke="#c3c2b7" stroke-width="1"/>
+<polygon points="0,-112.5 97.4,-56.25 97.4,56.25 0,112.5 -97.4,56.25 -97.4,-56.25" fill="none" stroke="#e1e0d9" stroke-width="1"/>
+<polygon points="0,-75 64.95,-37.5 64.95,37.5 0,75 -64.95,37.5 -64.95,-37.5" fill="none" stroke="#e1e0d9" stroke-width="1"/>
+<polygon points="0,-37.5 32.475,-18.75 32.475,18.75 0,37.5 -32.475,18.75 -32.475,-18.75" fill="none" stroke="#e1e0d9" stroke-width="1"/>
+<line x1="0" y1="0" x2="0" y2="-150" stroke="#e1e0d9" stroke-width="1"/>
+<line x1="0" y1="0" x2="129.9" y2="-75" stroke="#e1e0d9" stroke-width="1"/>
+<line x1="0" y1="0" x2="129.9" y2="75" stroke="#e1e0d9" stroke-width="1"/>
+<line x1="0" y1="0" x2="0" y2="150" stroke="#e1e0d9" stroke-width="1"/>
+<line x1="0" y1="0" x2="-129.9" y2="75" stroke="#e1e0d9" stroke-width="1"/>
+<line x1="0" y1="0" x2="-129.9" y2="-75" stroke="#e1e0d9" stroke-width="1"/>
+<polygon points="0,-135 106.6,-61.5 110.4,63.75 0,105 -110.4,63.75 -103.9,-63.75"
+  fill="#2a78d6" fill-opacity="0.18" stroke="#2a78d6" stroke-width="2" stroke-linejoin="round"/>
+<circle cx="0" cy="-135" r="4" fill="#2a78d6"/>
+<circle cx="106.6" cy="-61.5" r="4" fill="#2a78d6"/>
+<circle cx="110.4" cy="63.75" r="4" fill="#2a78d6"/>
+<circle cx="0" cy="105" r="4" fill="#2a78d6"/>
+<circle cx="-110.4" cy="63.75" r="4" fill="#2a78d6"/>
+<circle cx="-103.9" cy="-63.75" r="4" fill="#2a78d6"/>
+<text x="0" y="-165" text-anchor="middle" font-size="14" fill="#0b0b0b" font-family="sans-serif">HTML — 90%</text>
+<text x="175" y="-70" text-anchor="start" font-size="14" fill="#0b0b0b" font-family="sans-serif">JavaScript — 90%</text>
+<text x="175" y="82" text-anchor="start" font-size="14" fill="#0b0b0b" font-family="sans-serif">Tailwind — 85%</text>
+<text x="0" y="172" text-anchor="middle" font-size="14" fill="#0b0b0b" font-family="sans-serif">React — 85%</text>
+<text x="-175" y="82" text-anchor="end" font-size="14" fill="#0b0b0b" font-family="sans-serif">TypeScript — 78%</text>
+<text x="-175" y="-70" text-anchor="end" font-size="14" fill="#0b0b0b" font-family="sans-serif">CSS — 85%</text>
+</g>
+</svg>
+  <img src="skills-radar-chart.svg" width="480" alt="Skillset radar chart"/>
+</div>
+
+<div align="center">
+
 ### Skills & Their Role in Modern Software Development
 
 <table cellpadding="16" cellspacing="0">
