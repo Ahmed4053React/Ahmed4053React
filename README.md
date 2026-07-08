@@ -42,18 +42,61 @@ My goal is to grow into a **Software Engineer** who delivers systems that don't 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
-### Skills & Their Role in Modern Software Development 🧩
-
 <div align="center">
 
-| Skill | Role in Designing | Role in Building | Role in Improving |
-|---|---|---|---|
-| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) | Structures content and defines the semantic skeleton of an interface | Provides the base markup every UI is rendered on | Improves accessibility & SEO through semantic tags |
-| ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) | Shapes visual hierarchy, layout, and responsiveness | Styles components consistently across devices | Refines UX with animations, transitions & theming |
-| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | Models interactive behavior and dynamic UI logic | Powers client-side logic, DOM manipulation & APIs | Optimizes performance via async patterns & profiling |
-| ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) | Enables rapid, consistent design systems via utility classes | Speeds up UI assembly without leaving markup | Simplifies design refactors & theme consistency |
-| ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | Defines clear contracts/interfaces during architecture planning | Catches errors at compile-time, enabling safer builds | Improves maintainability & refactoring confidence at scale |
-| ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) | Encourages component-driven, reusable UI design | Builds dynamic, stateful interfaces efficiently | Enables scalable updates via reusable, testable components |
+### Skills & Their Role in Modern Software Development 🧩
+
+<table>
+<tr>
+<th align="center">🛠️ Skill</th>
+<th align="center">🎨 Designing</th>
+<th align="center">🏗️ Building</th>
+<th align="center">🔧 Improving</th>
+</tr>
+
+<tr>
+<td align="center"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></td>
+<td align="center"><img src="https://img.shields.io/badge/Semantic%20Structure-4ECDC4?style=flat-square&labelColor=2D2D2D"/></td>
+<td align="center"><img src="https://img.shields.io/badge/Base%20Markup-4ECDC4?style=flat-square&labelColor=2D2D2D"/></td>
+<td align="center"><img src="https://img.shields.io/badge/Accessibility%20%26%20SEO-4ECDC4?style=flat-square&labelColor=2D2D2D"/></td>
+</tr>
+
+<tr>
+<td align="center"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/></td>
+<td align="center"><img src="https://img.shields.io/badge/Visual%20Hierarchy-6C5CE7?style=flat-square&labelColor=2D2D2D"/></td>
+<td align="center"><img src="https://img.shields.io/badge/Consistent%20Styling-6C5CE7?style=flat-square&labelColor=2D2D2D"/></td>
+<td align="center"><img src="https://img.shields.io/badge/Animations%20%26%20Theming-6C5CE7?style=flat-square&labelColor=2D2D2D"/></td>
+</tr>
+
+<tr>
+<td align="center"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/></td>
+<td align="center"><img src="https://img.shields.io/badge/Interactive%20Logic-FFD93D?style=flat-square&labelColor=2D2D2D"/></td>
+<td align="center"><img src="https://img.shields.io/badge/DOM%20%26%20APIs-FFD93D?style=flat-square&labelColor=2D2D2D"/></td>
+<td align="center"><img src="https://img.shields.io/badge/Performance%20Tuning-FFD93D?style=flat-square&labelColor=2D2D2D"/></td>
+</tr>
+
+<tr>
+<td align="center"><img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/></td>
+<td align="center"><img src="https://img.shields.io/badge/Rapid%20Design%20Systems-00D2D3?style=flat-square&labelColor=2D2D2D"/></td>
+<td align="center"><img src="https://img.shields.io/badge/Fast%20UI%20Assembly-00D2D3?style=flat-square&labelColor=2D2D2D"/></td>
+<td align="center"><img src="https://img.shields.io/badge/Easy%20Redesigns-00D2D3?style=flat-square&labelColor=2D2D2D"/></td>
+</tr>
+
+<tr>
+<td align="center"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/></td>
+<td align="center"><img src="https://img.shields.io/badge/Clear%20Contracts-5C7CFA?style=flat-square&labelColor=2D2D2D"/></td>
+<td align="center"><img src="https://img.shields.io/badge/Compile%20Time%20Safety-5C7CFA?style=flat-square&labelColor=2D2D2D"/></td>
+<td align="center"><img src="https://img.shields.io/badge/Confident%20Refactors-5C7CFA?style=flat-square&labelColor=2D2D2D"/></td>
+</tr>
+
+<tr>
+<td align="center"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/></td>
+<td align="center"><img src="https://img.shields.io/badge/Component%20Driven%20UI-FF6B6B?style=flat-square&labelColor=2D2D2D"/></td>
+<td align="center"><img src="https://img.shields.io/badge/Dynamic%20Interfaces-FF6B6B?style=flat-square&labelColor=2D2D2D"/></td>
+<td align="center"><img src="https://img.shields.io/badge/Scalable%20Updates-FF6B6B?style=flat-square&labelColor=2D2D2D"/></td>
+</tr>
+
+</table>
 
 </div>
 
