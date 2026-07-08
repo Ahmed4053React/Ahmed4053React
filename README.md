@@ -35,7 +35,7 @@ My goal is to grow into a **Software Engineer** who delivers systems that don't 
 ---
 # Tech Stack 🛠️
 
-<img src="https://readme-typing-svg.demolab.com?font=Bookman+Old+Style&size=20&pause=1000&color=2b2b2b&center=true&vCenter=true&width=600&lines=Architecting+interfaces+that+feel+inevitable;React+%2B+TypeScript+%2B+Tailwind+CSS;Fascinated+by+what+software+makes+possible;Always+learning.+Always+teaching." alt="Typing SVG" />
+<img src="https://raw.githubusercontent.com/your-username/your-repo/main/assets/tech-stack-banner.svg" width="100%"/>
 
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
