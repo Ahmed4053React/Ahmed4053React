@@ -4,6 +4,8 @@
   <h2>Hey, Mohd Mubashir Ahmed (he/him) 👋</h2>
 
   <h3>Software Engineer 💻 and 🧑‍💻 Community Enthusiast ❤️</h3>
+
+  I'm a computer enthusiast at heart 💻 — genuinely fascinated by how systems come together and work. I love collaborating with new people on projects, whether that means learning from them or teaching what I know; the exchange is where the real growth happens. I'm passionate about building new systems from the ground up, and I'm crazy about data — how it behaves, what it reveals, and how it shapes user experience. My goal is to grow into a Software Engineer who delivers systems that don't just work, but genuinely inspire awe.
 </div>
 
 ---
