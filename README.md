@@ -1,46 +1,46 @@
 <div align="center">
+<br>
 
-# Hey, I'm [Your Name] 👋
-
-**Front-end web developer** building fast, responsive interfaces with React & TypeScript
-
-[Portfolio](https://yourportfolio.com) · [LinkedIn](https://linkedin.com/in/yourprofile) · [Email](mailto:youremail@example.com)
+```ts
+const developer = {
+  name: 'Your Name',
+  role: 'Front-end developer',
+  stack: ['React', 'TypeScript', 'Tailwind CSS'],
+  focus: 'Responsive, accessible web apps',
+};
+```
 
 </div>
 
 <br>
 
-## What I do
+## About
 
-I design and build responsive landing pages, websites, blogs, and web apps — focused on clean UI, solid accessibility, and performance.
+I design and build modern, responsive landing pages, websites, blogs, and web apps — with a focus on clean UI, accessibility, and performance.
+
+Currently deepening my expertise in React and TypeScript.
 
 <br>
 
 ## Stack
 
-`HTML` `CSS` `Tailwind CSS` `JavaScript` `TypeScript` `React`
+`HTML` `CSS / Tailwind CSS` `JavaScript` `TypeScript` `React`
 
 <br>
 
 ## Selected work
 
-**[weather-dashboard](https://github.com/yourusername/weather-dashboard)**
-Responsive weather app with live data and dark mode · [Live](https://your-live-link.vercel.app)
+**[weather-dashboard](https://github.com/yourusername/weather-dashboard)** — Responsive weather app with live data and dark mode
+[Live demo](https://your-live-link.vercel.app)
 
-**[portfolio-site](https://github.com/yourusername/portfolio-site)**
-Personal site built with Tailwind and Vite · [Live](https://your-live-link.vercel.app)
+**[portfolio-site](https://github.com/yourusername/portfolio-site)** — Personal site built with Tailwind and Vite
+[Live demo](https://your-live-link.vercel.app)
 
-**[project-three](https://github.com/yourusername/project-three)**
-One-line description of what makes this one worth a look
-
-<br>
-
-## Currently
-
-Sharpening React + TypeScript, and always open to collaborating on interesting front-end projects.
+**[project-three](https://github.com/yourusername/project-three)** — One-line description of what makes this one worth a look
+[Live demo](https://your-live-link.vercel.app)
 
 <br>
 
-<div align="center">
-<sub>Reach out anytime — <a href="mailto:youremail@example.com">youremail@example.com</a></sub>
-</div>
+## Connect
+
+[LinkedIn](https://linkedin.com/in/yourprofile) · [Email](mailto:youremail@example.com) · [Portfolio](https://yourportfolio.com)
