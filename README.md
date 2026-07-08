@@ -124,6 +124,7 @@ My goal is to grow into a **Software Engineer** who delivers systems that don't 
 | 🚀 **Optimization** | Supports scalable iteration through modular, independently testable components |
 
 </details>
+---
 
 # Product Lifecycle Flow
 
@@ -142,7 +143,7 @@ flowchart TD
     style E fill:#1E293B,stroke:#F472B6,stroke-width:2px,color:#fff
     style F fill:#1E293B,stroke:#38BDF8,stroke-width:2px,color:#fff
 ```
-
+---
 
 ## 🤝 Collaboration & Philosophy
 
