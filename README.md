@@ -1,12 +1,13 @@
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/00000000?v=4" width="150" style="border-radius:50%;" alt="Aditya Oberai"/>
 
-  <h2>Hey, Mohd Mubashir Ahmed (he/him) 👋</h2>
+  <h2>Hi, Mohd Mubashir Ahmed (he/him) 👋</h2>
 
   <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&text=&fontSize=0" width="100%"/>
-### 💻 Computer Enthusiast &nbsp;|&nbsp; 🤝 Collaboration Lover &nbsp;|&nbsp; ⚙️ System Builder
+
+💻 Computer Enthusiast &nbsp;|&nbsp; 🤝 Collaboration Lover &nbsp;|&nbsp; ⚙️ System Builder
 
 </div>
 
