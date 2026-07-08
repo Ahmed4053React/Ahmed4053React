@@ -124,6 +124,7 @@ My goal is to grow into a **Software Engineer** who delivers systems that don't 
 | 🚀 **Optimization** | Supports scalable iteration through modular, independently testable components |
 
 </details>
+
 ---
 
 # Product Lifecycle Flow
